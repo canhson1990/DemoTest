@@ -5,4 +5,14 @@ public class Demo{
 
   public static String NAME = "DEMO";
 
+
+  public void test(String name){
+
+   List<String> listName = new ArrayList<String>();
+
+
+   
+
+  }
+
 }
